@@ -195,7 +195,7 @@ class Bank {
 	             << "\t\t|                           Devoloper                            |\n"
 	             << "\t\t|                                                                |\n"
 	             << "\t\t|                                                                |\n"                                                      
-	             << "\t\t|                     Allen Jefferson C. Orcino                  |\n"
+	             << "\t\t|                     Future Software Engineer                   |\n"
 	             << "\t\t|                                                                |\n"
 	             << "\t\t+----------------------------------------------------------------+\n" << endl;
 	        cout << endl;
